@@ -6,3 +6,7 @@ if x==1:
 else:
     print("Walaikumassala")
     print("MashaAllah")
+y=int(input('enter choice of number'))
+if y==1:
+    print('drink water')
+    
